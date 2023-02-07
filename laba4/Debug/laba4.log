@@ -1,0 +1,29 @@
+﻿  laba4.cpp
+C:\Users\User\Documents\учеба\вычмат\laba4\laba4.cpp(36,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\User\Documents\учеба\вычмат\laba4\laba4.cpp(37,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\учеба\вычмат\laba4\laba4.cpp(40,17): warning C4244: =: преобразование "int" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Documents\учеба\вычмат\laba4\laba4.cpp(42,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\учеба\вычмат\laba4\laba4.cpp(45,17): warning C4244: =: преобразование "int" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Documents\учеба\вычмат\laba4\laba4.cpp(47,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\учеба\вычмат\laba4\laba4.cpp(50,17): warning C4244: =: преобразование "int" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Documents\учеба\вычмат\laba4\laba4.cpp(52,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\учеба\вычмат\laba4\laba4.cpp(55,17): warning C4244: =: преобразование "int" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Documents\учеба\вычмат\laba4\laba4.cpp(177,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\учеба\вычмат\laba4\laba4.cpp(58): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Show_Vector<float>(std::vector<float,std::allocator<float>>)"
+  laba4.vcxproj -> C:\Users\User\Documents\учеба\вычмат\laba4\Debug\laba4.exe
